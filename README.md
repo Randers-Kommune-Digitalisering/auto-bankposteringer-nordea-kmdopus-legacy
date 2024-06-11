@@ -1,0 +1,1 @@
+# auto-bankposteringer-nordea-kmdopus-legacy
